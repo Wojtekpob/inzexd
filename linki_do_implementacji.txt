@@ -1,0 +1,3 @@
+EL-Gan (24): https://github.com/ibrahimgh25/EL-GAN-Implementation
+LaneNet(81): https://github.com/ShenhanQian/Lane_Detection-An_Instance_Segmentation_Approach
+CNNLSTM(79): https://github.com/qinnzou/Robust-Lane-Detection

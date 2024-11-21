@@ -1,0 +1,1 @@
+python3 train_lanenet.py --data_dir ~/Lane_Detection-An_Instance_Segmentation_Approach/data/TUSimple/train_set/ --arch enet --dual_decoder

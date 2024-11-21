@@ -1,0 +1,12 @@
+Pytania praca inzynierska:
+- Ile powinienem wybrać algorytmów do porównania, aktualnie mam 5, które są uczone i testowane na tuSimple,
+- Czy sama implementacja algorytmu wystarczy, czy powinienem coś zmienić, ulepszyć?
+- walidacja na symulatorze carla - mam nagrywać filmy i dynamicznie pokazywać rysujące się linie, czy zbierać dane, dodać do nich adnotacje i sprawdzać wyniki analitycznie,
+- Lista algorytmów, które mogę zaimplementować: EL-GAN(24), STL-NET(63) [detection based], CNNLSTM(79), LaneNet(81) [instance segmentation], RLaneNet(85) [CNN+LSTM], lane2sec (architektura transformera, raczej nie dotykać), VPGNet(61) nie jest oznaczony na tuSimple, ale jeśli bym go zaimplementował to już by był [detection based]
+- Wybrany dataset to TuSimple do treningu i testowania,
+- Trenowanie sieci, czy może mi pan udostępnić jakąś maszynkę do treningu sieci? Jak się do niej podłączyć i używać, czy są jakieś ograniczenia?
+- Czy na wspomnianej maszynie mogę korzystać z symulatora carla, czy służy to tylko jako klaster obliczeniowy?
+- Co powinienem dalej robić - implementacja, prawda?
+- jaka powinna być struktura pracy inżynierskiej?
+
+szymon.smiech@pw.edu.pl - prośba o dostęp do openstack oraz vpn'a 

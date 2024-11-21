@@ -1,0 +1,4 @@
+Algorithm,Accuracy (%),False Positive Rate,False Negative Rate
+LaneNet,96.4,0.078,0.0244
+CNN-LSTM (SegNet),98.52,0.0067,0.098
+EL-GAN,96.39,0.0412,0.0336
